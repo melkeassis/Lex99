@@ -1,5 +1,6 @@
 import time
 import streamlit as st
+import utils
 from utils import cria_chain_conversa, PASTA_ARQUIVOS
 
 def sidebar():
